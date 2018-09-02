@@ -23,7 +23,7 @@ All the mods you need to join the server
 * [Trello](https://trello.com/b/vsVDAwwC/launch-rockets)
     
 
-# Etherpad
+# Map Index - What is on the LTN and Where it is being made!
 * [Etherpad via factor.cc](https://factor.cc/pad/p/foundationalfactorio)
 
 # Server Host
