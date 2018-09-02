@@ -20,5 +20,5 @@ All the mods you need to join the server
 	If you ever get disconnected, SAVE your map! The server may have crashed. 
 
 # Project Planning / Status
-	https://trello.com/b/vsVDAwwC/launch-rockets
+	[Project Trello](https://trello.com/b/vsVDAwwC/launch-rockets)
 
