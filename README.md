@@ -1,7 +1,7 @@
 # Foundational Factorio
 
 # Map
-   * [Google Style Map](http://foundationalfactorio.github.io/maps) Snapshot of the base, best viewed in MS edge
+   * [FoundationalFactorioMapSnapshot](http://foundationalfactorio.github.io/maps) Snapshot of the base, based on leaf and not google maps
 
 # Mods
 All the mods you need to join the server
