@@ -20,13 +20,14 @@ All the mods you need to join the server
 	If you ever get disconnected, SAVE your map! The server may have crashed. 
 
 # Project Planning / Status
-	[Project Trello](https://trello.com/b/vsVDAwwC/launch-rockets)
+	<https://trello.com/b/vsVDAwwC/launch-rockets>
 
-# Etherpad / What is being produced where - World writeable so don't trust any links here
-	[Etherpad](https://factor.cc/pad/p/foundationalfactorio)
+# Etherpad 
+	What is being produced where - World writeable so don't trust any links here
+	<https://factor.cc/pad/p/foundationalfactorio>
 
 # Server Host
-	[Nodecraft](https://nodecraft.com/instance/0c07d4da-c148-4db6-b6a8-0c881f9aeee5#!/instance/overview)
+	<https://nodecraft.com/instance/0c07d4da-c148-4db6-b6a8-0c881f9aeee5#!/instance/overview>
 
 # Useful Console Commands
-	[Factorio Console Commands](https://wiki.factorio.com/Console#Change_game_speed)
+	<https://wiki.factorio.com/Console#Change_game_speed>
