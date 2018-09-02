@@ -22,3 +22,5 @@ All the mods you need to join the server
 # Project Planning / Status
 	[Project Trello](https://trello.com/b/vsVDAwwC/launch-rockets)
 
+# Etherpad / What is being produced where - World writeable so don't trust any links here
+	[Etherpad](https://factor.cc/pad/p/foundationalfactorio)
