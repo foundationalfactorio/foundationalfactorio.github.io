@@ -1,7 +1,7 @@
 # Foundational Factorio
 
 # Map
-   * [FoundationalFactorioMapSnapshot](http://foundationalfactorio.github.io/maps) Snapshot of the base, based on leaf and not google maps
+   * [FoundationalFactorioMapSnapshot](http://foundationalfactorio.github.io/maps) Snapshot of the base, based on leafletjs
 
 # Mods
 All the mods you need to join the server
